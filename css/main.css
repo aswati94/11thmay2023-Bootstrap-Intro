@@ -1,0 +1,112 @@
+
+
+
+
+div.swati_row{
+    height: 200px;
+    border: 2px dashed red;
+}
+
+
+div.swati_row > div {
+    height: 100%;
+    border: 2px solid black;
+}
+
+.swati1_row {
+    height: 200px;
+    border: 2px dashed orange;
+}
+
+.swati1_row > div:first-child{
+    height: 100%;
+    background-color:  pink;
+}
+
+.swati1_row > div:nth-child(2){
+    height: 100%;
+    background-color: aqua;
+}
+
+.swati1_row > div:nth-child(3){
+    height: 100%;
+    background-color: brown;
+}
+
+.swati1_row > div:nth-child(4){
+    height: 100%;
+    background-color: grey;
+}
+
+.swati1_row > div:nth-child(5){
+    height: 100%;
+    background-color: purple;
+}
+
+.swati1_row > div:nth-child(6){
+    height: 100%;
+    background-color: mediumblue;
+}
+
+.swati1_row > div:last-child{
+    height: 100%;
+    background-color: skyblue;
+}
+
+div.swati2_row{
+    height: 300px;
+    border: 2px dashed black;
+}
+
+.swati2_row > div:first-child{
+    height: 100%;
+    background-color: burlywood;
+}
+
+.swati2_row > div:nth-child(2){
+    height: 100%;
+    background-color: violet;
+}
+
+.swati2_row > div:nth-child(3){
+    height: 100%;
+    background-color: yellow;
+}
+
+.swati2_row > div:nth-child(4){
+    height: 100%;
+    background-color: bisque;
+}
+
+.swati2_row > div:last-child{
+    height: 100%;
+    background-color: lightcoral;
+}
+
+div.swati3_row{
+    height: 250px;
+    border: 2px dashed black;
+}
+
+.swati3_row > div:first-child{
+    height: 100%;
+    background-color: wheat;
+}
+
+.swati3_row > div:nth-child(1){
+    height: 100%;
+    background-color: greenyellow;
+}
+
+.swati3_row > div:nth-child(2){
+    height: 100%;
+    background-color: mediumspringgreen;
+}
+
+.swati3_row > div:last-child{
+    height: 100%;
+    background-color: chocolate;
+}
+
+
+
